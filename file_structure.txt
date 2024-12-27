@@ -1,0 +1,26 @@
+.
+├── assets
+│   ├── earth.jpg
+│   ├── jupiter.webp
+│   ├── mars.webp
+│   ├── mercury.jpg
+│   ├── neptune.jpg
+│   ├── saturn.webp
+│   ├── solar_system.jpg
+│   ├── uranus.jpg
+│   └── venus.jpg
+├── file_structure.txt
+├── index.css
+├── index.html
+└── pages
+    ├── earth.html
+    ├── jupiter.html
+    ├── mars.html
+    ├── mercury.html
+    ├── neptune.html
+    ├── saturn.html
+    ├── style.css
+    ├── uranus.html
+    └── venus.html
+
+3 directories, 21 files
